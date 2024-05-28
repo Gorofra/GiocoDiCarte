@@ -22,5 +22,4 @@ public class Combattimento {
 			return "vince "+p2.getNome()+" forza "+p2.getNome()+" "+ p2.getForza()+" forza "+p1.getNome()+" "+ p1.getForza()+".";
 		}
 	}
-
 }

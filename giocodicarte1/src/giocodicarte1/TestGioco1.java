@@ -2,7 +2,6 @@ package giocodicarte1;
 import java.util.*;
 public class TestGioco1 {
 
-
 	public static void main(String[] args) {
 		Random random=new Random();
 		boolean luna=random.nextBoolean();

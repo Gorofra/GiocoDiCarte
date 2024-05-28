@@ -18,5 +18,4 @@ public class Eroe extends Personaggio implements Umano {
 	public int attacca() {
 		return this.combatte();
 	}
-
 }

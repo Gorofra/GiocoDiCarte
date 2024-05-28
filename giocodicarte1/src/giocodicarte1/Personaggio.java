@@ -26,5 +26,4 @@ public abstract class Personaggio {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
-	
 }

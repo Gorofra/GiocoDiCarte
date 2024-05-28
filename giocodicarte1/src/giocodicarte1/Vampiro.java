@@ -2,7 +2,6 @@ package giocodicarte1;
 
 //CLASSE FISICA VAMPIRO
 public class Vampiro extends Personaggio implements Mostro {
-
 	{
 		this.setForza(15);
 	}

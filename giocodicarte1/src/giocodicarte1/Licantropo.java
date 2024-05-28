@@ -16,7 +16,6 @@ public class Licantropo extends Personaggio implements Mostro, Umano {
 			this.setForza(10);
 		}
 	}
-
 	@Override
 	public int combatte() {
 		return 3;
